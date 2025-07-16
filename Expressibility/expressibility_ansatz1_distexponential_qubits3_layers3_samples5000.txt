@@ -1,0 +1,4 @@
+Circuit,Expressibility
+No connections, 0.10121076036817803
+Linear, 0.00599133633207366
+Ring, 0.00721276081181203
